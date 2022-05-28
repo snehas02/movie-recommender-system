@@ -9,3 +9,5 @@ It is a subclass of information filtering system that seeks to predict the "rati
     3.Hybrid
 # The algorithm which I have used to deploy the recommendation engine is Content-based filtering
 Content-based filtering methods are based on a description of the item and a profile of the user's preferences.These methods are best suited to situations where there is known data on an item (name, location, description, etc.), but not on the user. Content-based recommenders treat recommendation as a user-specific classification problem and learn a classifier for the user's likes and dislikes based on an item's features.
+
+I Have uploaded all the code related information via files.
